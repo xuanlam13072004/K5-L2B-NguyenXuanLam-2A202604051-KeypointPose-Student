@@ -26,3 +26,5 @@ person_keypoints_train2017.json
 # Ground truth chỉ coach giữ
 coach_gt/
 *_gt.json
+
+.venv/

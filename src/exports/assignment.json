@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202604051",
+ "ten": "NguyenXuanLam",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "xuanlam13072004",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000194027.jpg",
+  "000000213933.jpg",
+  "000000261732.jpg",
+  "000000295358.jpg",
+  "000000493741.jpg",
+  "000000030960.jpg",
+  "000000183176.jpg",
+  "000000516902.jpg",
+  "000000043719.jpg",
+  "000000518966.jpg",
+  "000000323705.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_257657.jpg",
+  "face_421231.jpg",
+  "face_476363.jpg",
+  "face_79591.jpg",
+  "face_342273.jpg",
+  "face_405456.jpg",
+  "face_483667.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 6,
+   "job_id": 6,
+   "task_name": "persons-NguyenXuanLam"
+  },
+  "faces": {
+   "task_id": 7,
+   "job_id": 7,
+   "task_name": "faces-NguyenXuanLam"
+  }
+ }
+}
